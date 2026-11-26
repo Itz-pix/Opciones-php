@@ -6,6 +6,7 @@
 </head>
 <body>
 
+<body style="background-color: #ce98e7; text-align: center; font-family: Arial;">
     <h1>Personaliza tu paquete turistico</h1>
 
     <form action="resultados.php" method="POST">
